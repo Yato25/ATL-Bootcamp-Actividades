@@ -6,4 +6,40 @@
     "answer": 2,
     "explanation": "En el Mundial de Qatar 2022 de Futbol Argentina vencio a Francia en tanda de penaltis"
   }
+  ,{
+    "category": "Cultura",
+    "question": "¿Qué ingredintes se necesitan para hacer una michelada?",
+    "options": ["Cerveza, lima/limón, sal, chile en polvo, salsa tipo inglesa, picante", "Cerveza, lima/limón y limon", "Cerveza, sal, tabasco y lima/limón"],
+    "answer": 0,
+    "explanation": "La michelada, originaria de México, nacida de la creatividad y el deseo de refrescar, se convirtió en una popular bebida que cautivó a los amantes de la cerveza con su combinación única de sabores y su espíritu festivo."
+  },
+  {
+    "category": "Musica",
+    "question": "¿A que genero pertenece la banda Argentina Airbag?",
+    "options": ["POP", "Electronica", "RocK alternativo"],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "category": "Series",
+    "question": "¿A que popular juego pertenece la serie llamada Arcane?",
+    "options": ["Mario Bros", "Dota 2", "League of Legends"],
+    "answer": 2,
+    "explanation":""       
+  },
+  {
+    "category": "Mitologia Nordica",
+    "question": "¿Que significado tiene 'Yggdrasil' en la mitologia nordica?",
+    "options": ["Fruto Celestial", "Arbol de la Vida", "Espada Divina"],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "category": "Programacion",
+    "question": "¿Que lenguaje se usa en desarrollo movile?",
+    "options": [],
+    "answer": 0,
+    "explanation": ""
+  }
+
 ]
