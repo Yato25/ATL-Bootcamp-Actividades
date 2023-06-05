@@ -1,11 +1,11 @@
 [
   {
-    "category": "Cultura",
-    "description": "Preguntas relacionadas con arte, literatura, música y otras expresiones culturales."
-  },
-  {
     "category": "Deportes",
     "description": "Preguntas relacionadas con diversos deportes y eventos deportivos."
+  },
+  {
+    "category": "Cultura",
+    "description": "Preguntas relacionadas con arte, literatura, música y otras expresiones culturales."
   },
   {
     "category": "Musica",
