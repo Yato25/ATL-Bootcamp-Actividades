@@ -1,0 +1,26 @@
+[
+  {
+    "category": "Cultura",
+    "description": "Preguntas relacionadas con arte, literatura, música y otras expresiones culturales."
+  },
+  {
+    "category": "Deportes",
+    "description": "Preguntas relacionadas con diversos deportes y eventos deportivos."
+  },
+  {
+    "category": "Musica",
+    "description": "Preguntas relacionadas con canciones, artistas, y tendencias musicales."
+  },
+  {
+    "category": "Series",
+    "description": "Preguntas relacionadas con series televisivas y personajes ficticios."
+  },
+  {
+    "category": "Mitologia Nordica",
+    "description": "Preguntas relacionadas con la cultura nordica."
+  },
+  {
+    "category": "Programacion",
+    "description": "Preguntas relacionadas con el mundo de la programacion, lenguajes usados y tendencias."
+  }
+]

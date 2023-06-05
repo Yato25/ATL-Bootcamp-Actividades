@@ -1,0 +1,9 @@
+[ 
+  {
+    "category": "Deportes",
+    "question": "¿Qué pais gano la Copa Mundial de Futbol de 2022?",
+    "options": ["Francia", "Alemania", "Argentina"],
+    "answer": 2,
+    "explanation": "En el Mundial de Qatar 2022 de Futbol Argentina vencio a Francia en tanda de penaltis"
+  }
+]
