@@ -1,4 +1,4 @@
-package clase6;
+package atl.clase6;
 
 public class BuscadorDePaises{
 
