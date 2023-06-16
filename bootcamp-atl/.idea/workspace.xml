@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a00cf304-45a3-4a2e-873d-8d2dcd66efa4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootcamp-atl.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bootcamp/Ejercicios/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Ejercicios/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bootcamp/Ejercicios/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Ejercicios/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bootcamp/Ejercicios/src/main/java/atl/clase5/CalculadoraDeDescuentos.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ejercicios/src/main/java/atl/clase5/CalculadoraDeDescuentos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bootcamp/Ejercicios/src/main/java/atl/clase5/CalculadoraDeEdadPerros.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ejercicios/src/main/java/atl/clase5/CalculadoraDeEdadPerros.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bootcamp/Ejercicios/src/main/java/atl/clase5/CalculadoraDePropinas.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ejercicios/src/main/java/atl/clase5/CalculadoraDePropinas.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bootcamp/Ejercicios/src/main/java/atl/clase5/ConversorDeMillasAkilometros.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ejercicios/src/main/java/atl/clase5/ConversorDeMillasAkilometros.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bootcamp/Ejercicios/src/main/java/atl/clase5/JuegoAdivinarElnumero.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ejercicios/src/main/java/atl/clase5/JuegoAdivinarElnumero.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bootcamp/Ejercicios/src/main/java/atl/clase6/BuscadorDePaises.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ejercicios/src/main/java/atl/clase6/BuscadorDePaises.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bootcamp/Ejercicios/src/main/java/atl/clase6/BuscadorTwitter.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ejercicios/src/main/java/atl/clase6/BuscadorTwitter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bootcamp/Ejercicios/src/main/java/atl/clase6/LibroTuPropiaHistoria.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ejercicios/src/main/java/atl/clase6/LibroTuPropiaHistoria.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bootcamp/Ejercicios/src/main/java/atl/clase6/LlamarPorWhatsapp.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ejercicios/src/main/java/atl/clase6/LlamarPorWhatsapp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bootcamp/Ejercicios/src/main/java/atl/ejercicios/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ejercicios/src/main/java/atl/ejercicios/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bootcamp/Ejercicios/src/main/java/atl/ejercicios/PiedraPapelTijera.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ejercicios/src/main/java/atl/ejercicios/PiedraPapelTijera.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bootcamp/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../bootcamp/pom.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2RIvnhR1iB3CLr0KSE9ofoQDPe2" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "jdk.selected.JAVA_MODULE": "corretto-18",
+    "last_opened_file_path": "C:/Users/EZEPO/OneDrive/Escritorio/Grupo-10/ATL-Bootcamp-Actividades/bootcamp-atl/apis/autocompletar-spring"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\EZEPO\OneDrive\Escritorio\Grupo-10\ATL-Bootcamp-Actividades\bootcamp-atl\Ejercicios\src\main\java" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a00cf304-45a3-4a2e-873d-8d2dcd66efa4" name="Changes" comment="" />
+      <created>1686950585116</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1686950585116</updated>
+    </task>
+    <servers />
+  </component>
+</project>
