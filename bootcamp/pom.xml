@@ -11,10 +11,14 @@
 	<groupId>academy-atl</groupId>
 	<artifactId>bootcamp</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>war</packaging>
+	<packaging>pom</packaging>
 	<name>bootcamp</name>
 	<description>Demo project for Spring Boot</description>
-	<properties>
+    <modules>
+        <module>Ejercicios</module>
+		<module>Ejercicios</module>
+	</modules>
+    <properties>
 		<java.version>17</java.version>
 	</properties>
 	<dependencies>

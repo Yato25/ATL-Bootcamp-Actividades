@@ -1,12 +1,12 @@
-package atl.piedrapapeltijera;
+package atl.ejercicios;
 
 import java.util.Random;
 import java.util.Scanner;
 
-public class Game {
+public class PiedraPapelTijera {
 
     public static void main(String[] args) {
-        Game juego = new Game();
+        PiedraPapelTijera juego = new PiedraPapelTijera();
         juego.comenzarJuego();
     }
 
@@ -24,7 +24,7 @@ public class Game {
     Integer vidas;
     Integer puntaje;
 
-    public Game(){
+    public PiedraPapelTijera(){
         jugador = new Jugador( "pepe");
         maquina = new Jugador("maquina");
         vidas = 3;
