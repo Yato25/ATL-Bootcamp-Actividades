@@ -1,5 +1,7 @@
 package atl.clase6;
 
+import java.util.Scanner;
+
 public class LibroTuPropiaHistoria{
 
     public static void main(String[] args) {
@@ -24,7 +26,7 @@ public class LibroTuPropiaHistoria{
             segundaEscena = "Un inquietante ruido se mese a lo largo del bosque, empiezas a creer que quiza fue mala idea venir por el camino pero\n"
                     + "cuando miras hacia atras una espesa niebla evita que encuentres el camino de regreso. Ansioso empiezas a:\n"
                     + "1) Caminar mas deprisa \n" +
-                    + "2) Buscar huellas de tus pisadas\n";
+                     "2) Buscar huellas de tus pisadas\n";
 
             System.out.println(segundaEscena);
 
@@ -36,7 +38,7 @@ public class LibroTuPropiaHistoria{
                         + "algo te ataca desde las sombras con sus garras y desgarra tu estomago.. a punto de morir de la nada...\n"
                         + "sientes tu cabeza mareada... te has despertado en tu casa.. y tu hermana te pregunta si estas bien\n"
                         + "se te ve palido como si vieras un fantasma. Tu hermana menor te abraza y te dice que solo fue una pesadilla...\n" +
-                        + "pero se sintio tan real que no piensas de esa forma...";
+                        "pero se sintio tan real que no piensas de esa forma...";
 
                 System.out.println(terceraEscena);
 
