@@ -1,5 +1,8 @@
 package com.trivia.serviciotrivia.servicios;
 
+import com.fasterxml.jackson.core.JsonProcessingException;
+import com.fasterxml.jackson.databind.ObjectMapper;
+import com.trivia.serviciotrivia.apis.ChatGptClient;
 import com.trivia.serviciotrivia.modelos.Categoria;
 import com.trivia.serviciotrivia.modelos.Pregunta;
 import org.springframework.stereotype.Service;
@@ -49,12 +52,13 @@ public class ServicioTrivia {
         Pregunta preguntaDeSerie = new Pregunta("Series", "¿Existe la serie de Big Bang Theory?",
                                                 List.of("No", "Si", "Si, pero ya dejo de existir"), 1
                                                  , "Si, sigue siendo transmitida en la television");
-
+        /*
         preguntas.add(preguntaDeArte);
         preguntas.add(preguntaDeCultura);
         preguntas.add(preguntaDeDeportes);
         preguntas.add(preguntaDeCine);
         preguntas.add(preguntaDeSerie);
+        */
 
         categorias.add(deportes);
         categorias.add(arte);
@@ -66,11 +70,8 @@ public class ServicioTrivia {
     public List<Categoria> getAllCategories() {
         return categorias;
     }
-    public List<Pregunta> getAllQuestions(){
-        return  preguntas;
-    }
     public Pregunta getQuestion(String category) {
-        List<Pregunta> preguntasDeCategoria = preguntas.stream().filter( x -> x.getCategory().equalsIgnoreCase(category)).toList();
-        return preguntasDeCategoria.get(0);
+        ChatGptClient gpt = new ChatGptClient();
+        return gpt.generarPregunta(category);
     }
 }

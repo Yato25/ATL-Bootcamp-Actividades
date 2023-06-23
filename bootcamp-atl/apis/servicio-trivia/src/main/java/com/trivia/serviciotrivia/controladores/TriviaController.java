@@ -20,12 +20,11 @@ public class TriviaController {
     public List<Categoria> getCategories(){
         return servicioTrivia.getAllCategories();
     }
-    @GetMapping("/question")
-    public List<Pregunta> getAllQuestiones(){ return servicioTrivia.getAllQuestions(); }
+
     @GetMapping("/question/{category}")
     public Pregunta getQuestion(@PathVariable String category){
-
-        return  servicioTrivia.getQuestion(category);
+        Pregunta pregunta = servicioTrivia.getQuestion(category);
+        return  pregunta;
     }
 
 }

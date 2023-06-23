@@ -10,15 +10,15 @@ public class Pregunta {
     private Integer answer;
     private String explanation;
 
-    public Pregunta(String categoria, String pregunta, List<String> opciones,
-                    Integer answer, String explanation){
-
-        this.category = categoria;
-        this.question = pregunta;
-        this.options = opciones;
+    public Pregunta(String category, String question, List<String> options, Integer answer, String explanation) {
+        this.category = category;
+        this.question = question;
+        this.options = options;
         this.answer = answer;
         this.explanation = explanation;
     }
+
+    public  Pregunta(){}
 
     public String getCategory() {
         return category;
